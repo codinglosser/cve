@@ -17,7 +17,7 @@ An unrestricted SQL injection attack exists in patient-record-management-system-
 
 When the value of $itr_no parameter is obtained in birthing_print.php , it will be concatenated into SQL statements and executed, which has a SQL injection vulnerability. 
 
-![image-20250329163136731](sql75(未交).assets/image-20250329163136731.png)
+![Image](https://github.com/user-attachments/assets/a863218e-2629-4123-a40d-1af2576026e0)
 
 
 
